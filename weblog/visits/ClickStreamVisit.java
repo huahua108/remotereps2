@@ -123,10 +123,8 @@ public class ClickStreamVisit {
 		
 		boolean res = job.waitForCompletion(true);
 		System.exit(res?0:1);
+		System.put.println("我修改了,这是版本4");
 
 	}
-	
-	
-	我修改了,这是版本4
 
 }

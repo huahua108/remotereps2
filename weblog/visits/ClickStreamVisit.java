@@ -125,5 +125,8 @@ public class ClickStreamVisit {
 		System.exit(res?0:1);
 
 	}
+	
+	
+	我修改了,这是版本4
 
 }
